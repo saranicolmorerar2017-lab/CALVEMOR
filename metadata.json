@@ -1,0 +1,11 @@
+{
+  "name": "Eco-Guardianes Calvemor",
+  "description": "Aplicación comunitaria para reportar acumulación de basura en calles y espacios públicos del Municipio de Ortega (Tolima) con cámara, mapa interactivo con calles, geolocalización y seguimiento de soluciones.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
